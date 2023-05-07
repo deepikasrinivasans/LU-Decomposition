@@ -14,7 +14,6 @@ To write a program to find the LU Decomposition of a matrix.
 4. Assign P,L,U (Pivot matrix,L matrix and U matrix) to lu of A.
 5. Print L and U
 ## Program:
-(i) To find the L and U matrix
 ```
 #Program to find the L and U matrix.
 #Developed by: DEEPIKA.S
@@ -48,6 +47,7 @@ To write a program to solve a matrix using LU Decomposition.
 3. Get the input of A and B matrix.
 4. Assign lu and piv (lu and Pivot matrix) to lu_factor of A.
 5. Assign x to lu_solve of lu and piv with B and print x.
+## Program:
 ```
 #Program to find the LU Decomposition of a matrix.
 #Developed by: DEEPIKA.S 
