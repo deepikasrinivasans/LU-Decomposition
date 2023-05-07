@@ -1,4 +1,4 @@
-# LU Decomposition 
+# LU Decomposition to find L and U matrix
 
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
@@ -26,14 +26,14 @@ P,L,U=lu(A)
 print(L)
 print(U)
 ```
-##Output:
+## Output:
 ![image](https://user-images.githubusercontent.com/119393935/236671331-a10f2597-6ec1-47d6-b0e9-fb8707e953ec.png)
 
-##Result:
+## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
 
-(ii) To find the LU Decomposition of a matrix
+## Using LU Decomposition to solve a matrix
 
 ## AIM:
 To write a program to solve a matrix using LU Decomposition.
