@@ -28,12 +28,26 @@ print(U)
 ```
 ##Output:
 ![image](https://user-images.githubusercontent.com/119393935/236671331-a10f2597-6ec1-47d6-b0e9-fb8707e953ec.png)
-```
+
 ##Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
-```
+
 
 (ii) To find the LU Decomposition of a matrix
+
+## AIM:
+To write a program to solve a matrix using LU Decomposition.
+
+## Equipments Required:
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+
+## Algorithm
+1. Import numpy as np.
+2. Import lu_factor and lu_solve from scipy.linalg.
+3. Get the input of A and B matrix.
+4. Assign lu and piv (lu and Pivot matrix) to lu_factor of A.
+5. Assign x to lu_solve of lu and piv with B and print x.
 ```
 #Program to find the LU Decomposition of a matrix.
 #Developed by: DEEPIKA.S 
